@@ -1,0 +1,7 @@
+{
+  "name": "PriyankaTech Studio",
+  "description": "Professional MTech/PhD research and thesis generation studio by Trishika Technologies and Solutions, powered by NVIDIA NIM and Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
